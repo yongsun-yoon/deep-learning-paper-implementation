@@ -1,1 +1,1 @@
-# Deep_Learning_Paper_Implemenetaion
+# deep-learning-paper-implementation
